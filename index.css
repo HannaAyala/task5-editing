@@ -1,0 +1,105 @@
+.title {
+    text-align: center;
+     padding-top: 20px; ;
+     font-family: "Raleway";
+     font-style: normal;
+     font-weight:400 ;
+     font-size: 36px;
+     line-height: 25px;
+     
+    }
+    
+
+
+
+
+     .subtitle {
+    text-align: center;
+     padding-top: 15px;
+     font-family: "raleway";
+     font-size: 400;
+     font-weight: 18px;
+     color: rgba(134, 135, 139, 1);
+    }
+
+    .column {
+        padding: 25px;
+        float: left;
+        width: 350px;
+        text-align: center;
+        margin-top: 20px;
+        
+        
+        
+        
+    }
+    .price { 
+        list-style-type: none;
+        border: 2px solid white;
+        margin: 0;
+        padding: 0;
+        font-family: "Raleway";
+        font-size: 700;
+        
+        
+
+
+    }
+    .wrapper {
+        text-align: center;
+        background-color:  #F5F5F5;
+        width: 1170px;
+        margin: auto;
+         height: 750px;
+        
+    
+    }
+    .price:hover { 
+        box-shadow: 0 8px 12px 0 ;
+    }
+    .price .header {
+        background-color: #333333;
+        color: white;
+        font-size: 24px;
+        font-family: "open sans";
+        font-size: 700;
+        font-weight: 18;
+        
+    }
+    .price li {
+        border-bottom: 1px solid #F5F5F5;
+        padding: 10px;
+        text-align: center;
+        background-color: white;
+        
+        ;
+    }
+    .price .cost{
+        background-color: #333333;
+        color: white;
+        line-height: 42px;
+        font-family: "raleway";
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .price .small-text {
+        background-color: #333333;
+        color: rgba(255, 255, 255, 0.5);
+        font-family: "Raleway";
+        font-size: 400;
+        font-weight: 18px;
+    }
+    
+    
+        
+    
+    
+.gb { 
+    color:gray;
+    font-family: "raleway";
+    font-size: 400;
+    font-weight: 18;
+}
+
+  
+  

@@ -1,0 +1,48 @@
+.column2 {
+    padding: 10px;
+    float: left;
+    width: 350px;
+    text-align: center;
+    margin-top: 5px;}
+
+    .price2 { 
+        list-style-type: none;
+        border: 2px solid white;
+        margin: 0;
+        padding: 0;
+        font-family: "Raleway";
+        font-size: 700;}
+        .price2 .header2 {
+            background-color: #333333;
+            color: white;
+            font-size: 24px;
+            font-family: "open sans";
+            font-size: 700;
+            font-weight: 18;
+            
+        }
+        .price2 li {
+            border-bottom: 1px solid #F5F5F5;
+            padding: 10px;
+            text-align: center;
+            background-color: white;
+            
+            ;
+        }
+        .price2 .cost2{
+            background-color: #333333;
+            color: white;
+            line-height: 42px;
+            font-family: "raleway";
+            font-size: 36px;
+            font-weight: 700;
+        }
+        .price2 .small-text2 {
+            background-color: #333333;
+            color: rgba(255, 255, 255, 0.5);
+            font-family: "Raleway";
+            font-size: 400;
+            font-weight: 18px;
+        }
+        .price2:hover { 
+            box-shadow: 0 8px 12px 0 ;}
